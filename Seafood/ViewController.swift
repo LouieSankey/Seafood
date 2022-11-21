@@ -6,6 +6,8 @@
 //
 
 import Cocoa
+import Vision
+import CoreML
 
 class ViewController: NSViewController {
 

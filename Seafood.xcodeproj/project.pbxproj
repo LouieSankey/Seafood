@@ -11,6 +11,7 @@
 		BF39843A292B9DBA00DC3304 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF398439292B9DBA00DC3304 /* ViewController.swift */; };
 		BF39843C292B9DBF00DC3304 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF39843B292B9DBF00DC3304 /* Assets.xcassets */; };
 		BF39843F292B9DBF00DC3304 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF39843D292B9DBF00DC3304 /* Main.storyboard */; };
+		BF398447292B9E2700DC3304 /* Inceptionv3.mlkitmodel in Sources */ = {isa = PBXBuildFile; fileRef = BF398446292B9E2700DC3304 /* Inceptionv3.mlkitmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		BF39843B292B9DBF00DC3304 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF39843E292B9DBF00DC3304 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		BF398440292B9DBF00DC3304 /* Seafood.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Seafood.entitlements; sourceTree = "<group>"; };
+		BF398446292B9E2700DC3304 /* Inceptionv3.mlkitmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlkitmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		BF398436292B9DBA00DC3304 /* Seafood */ = {
 			isa = PBXGroup;
 			children = (
+				BF398446292B9E2700DC3304 /* Inceptionv3.mlkitmodel */,
 				BF398437292B9DBA00DC3304 /* AppDelegate.swift */,
 				BF398439292B9DBA00DC3304 /* ViewController.swift */,
 				BF39843B292B9DBF00DC3304 /* Assets.xcassets */,
@@ -133,6 +136,7 @@
 			files = (
 				BF39843A292B9DBA00DC3304 /* ViewController.swift in Sources */,
 				BF398438292B9DBA00DC3304 /* AppDelegate.swift in Sources */,
+				BF398447292B9E2700DC3304 /* Inceptionv3.mlkitmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
